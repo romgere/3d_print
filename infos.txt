@@ -17,6 +17,7 @@ PLA Fiberlogy : 210°
 
 
 Avant impression, faire chauffer la tête une fois, puis refroidir & lancer l'impression (pour faire chauffer le palpeur)
+	=> Appement pas forcement une bonne idée. Plutôt garder tout à temperature ambiante mais bien attendre le refroidissement après impression
 
 Pour changement de PLA, ne pas oublier de faire chauffer la tête avant de tirer sur le PLA pour le sortir.
 
