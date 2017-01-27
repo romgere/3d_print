@@ -25,3 +25,8 @@ Pour changement de PLA, ne pas oublier de faire chauffer la tête avant de tirer
 TUTO OCTOPRINT DE200 : 
 
 https://www.lesimprimantes3d.fr/forum/topic/1254-tuto-piloter-%C3%A0-distance-la-discovery-200-avec-octoprint-sur-raspberry-pi/
+
+
+27/01/2017 : 
+
+Impression support plateau : Test avec laque, profil standard, flow : 96% (variable sur début d'impression), parait pas mal à partir du 96% !!
